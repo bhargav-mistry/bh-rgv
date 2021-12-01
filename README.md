@@ -5,13 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-&nbsp;
-
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
 - 📫 How to reach me **rudra@outlook.com**
 
-- Don't forget to hit the ⭐, If you like this repo.
+- Don't forget to hit the ⭐, If you like this repository.
 
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
 <p align="left">
@@ -57,3 +55,10 @@
 
 **&nbsp;**
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rudra-nsh&show_icons=true&hide_border=true" />
+
+</details>
