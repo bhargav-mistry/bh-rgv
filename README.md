@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif)](https://Rudra.github.io)
+[![MasterHead="center"](https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif)](https://Rudra.github.io)
 <h1 align="center">Hi 👋, I'm Rudra </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
