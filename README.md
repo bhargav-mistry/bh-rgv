@@ -2,13 +2,14 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br />
-<br />
+&nbsp;
 
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
