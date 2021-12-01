@@ -7,8 +7,6 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<br />
-
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
 - 📫 How to reach me **rudra@outlook.com**
@@ -32,6 +30,7 @@
 </p>
 
 <br />
+
 <h2 align="left"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
 <p align="left">
 
@@ -57,7 +56,7 @@
 
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh" alt="Rudra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
 
 **&nbsp;**
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
