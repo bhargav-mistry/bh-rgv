@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdlpng.com%2Fpng%2F5328688&psig=AOvVaw2J26qdREhNa2sh0iB7Rlkr&ust=1638427695934000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIiorP2AwvQCFQAAAAAdAAAAABAb)](https://Rudra.github.io)
+[![MasterHead](https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif)](https://Rudra.github.io)
 <h1 align="center">Hi 👋, I'm Rudra </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
