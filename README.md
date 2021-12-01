@@ -14,8 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Rudra" height="40" width="40" /></a>
+&nbsp;
 <a href="https://linkedin.com/in/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Rudra" height="40" width="40" /></a>
+&nbsp;
 <a href="https://instagram.com/rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Rudra" height="40" width="40" /></a>
+&nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="40" width="40" /></a>
 </p>
 
