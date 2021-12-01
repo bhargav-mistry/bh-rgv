@@ -56,4 +56,4 @@
 
 **&nbsp;**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
