@@ -3,7 +3,11 @@
 </p>
 <h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
+
+<br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<br />
 
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
@@ -51,6 +55,7 @@
 &nbsp;
 </p>
 
+<br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh" alt="Rudra" /></p>
 
