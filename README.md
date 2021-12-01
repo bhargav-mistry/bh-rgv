@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-&nbsp;
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
 - 📫 How to reach me **rudra@outlook.com**
@@ -15,15 +14,15 @@
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
 <p align="left">
 
-<a href="https://twitter.com/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Rudra" height="30" width="30" /></a>
+<a href="https://twitter.com/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
-<a href="https://linkedin.com/in/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Rudra" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
-<a href="https://instagram.com/rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Rudra" height="30" width="30" /></a>
+<a href="https://instagram.com/rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
-<a href="https://github.com/rudra-nsh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="30" width="30" /></a>
+<a href="https://github.com/rudra-nsh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="30" width="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
 </p>
 
@@ -43,11 +42,11 @@
 &nbsp;
 <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="js" width="40" height="40"/> </a> 
 &nbsp;
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="python" width="40" height="40"/> </a>  
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql" width="40" height="40"/> </a>  
 &nbsp;
 </p>
 
