@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rudra@outlook.com**
 
-- ⚡ Fun fact **I think I am funny**
+- Don't forget to hit the ⭐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
