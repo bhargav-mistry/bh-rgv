@@ -47,10 +47,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
 
 **&nbsp;**
-<br>
-  <p align="center">
-  <img src="https://github.com/rudra-nsh/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
