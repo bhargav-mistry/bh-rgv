@@ -40,9 +40,9 @@
 <h3 align="left">Languages </h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" />
-<h3 align="left">Git Status </h3>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" />
+<h3 align="left">Git Status </h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" />
 </p>
 
 
