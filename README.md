@@ -7,9 +7,11 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<br />
+
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
-- 📫 How to reach me **rudra@outlook.com**
+- 📫 How to reach me <a href="mailto:rudra@outlook.com" > Click Hear! </a>
 
 - Don't forget to hit the ⭐, If you like this repository.
 
