@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rudra@outlook.com**
 
-- Don't forget to hit the ⭐**
+- Don't forget to hit the ⭐,If you like this repo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
