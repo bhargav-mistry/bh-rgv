@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://pixabay.com/vectors/interface-internet-program-browser-3614766/)](https://rudra.github.io) -->
-<h1 align="center">Hello, I'm Rudra <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -11,7 +11,7 @@
 
 - Don't forget to hit the ⭐, If you like this repo.
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Rudra" height="40" width="40" /></a>
 &nbsp;
@@ -40,4 +40,4 @@
 
 **&nbsp;**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
