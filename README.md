@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 
@@ -18,7 +18,7 @@
 - **Don't forget to hit the ⭐, If you like this repository.**
 
 <br />
-<h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
+<h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="left">
 
 <a href="https://twitter.com/Rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Rudra" height="30" width="30"/> </a>
@@ -35,7 +35,7 @@
 
 <br />
 
-<h2 align="left"> Languages Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<h2 align="left"> Languages Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="35" height="35"/> </a>
 &nbsp;
@@ -47,7 +47,7 @@
 
 <br />
 
-<h2 align="left"> Web Development Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<h2 align="left"> Web Development Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="35" height="35"/> </a> 
 &nbsp;
@@ -65,7 +65,7 @@
 
 <br />
 
-<h2 align="left"> Designing Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
+<h2 align="left"> Designing Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="35" height="35"/> </a>
 &nbsp; 
