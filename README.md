@@ -11,6 +11,7 @@
 
 - Don't forget to hit the ⭐, If you like this repository.
 
+<br />
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
 <p align="left">
 
@@ -26,7 +27,7 @@
 &nbsp;
 </p>
 
-
+<br />
 <h2 align="left"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
 <p align="left">
 
