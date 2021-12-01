@@ -1,4 +1,7 @@
-<!-- [![MasterHead](https://pixabay.com/vectors/interface-internet-program-browser-3614766/)](https://rudra.github.io) -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
