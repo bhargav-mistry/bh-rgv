@@ -15,7 +15,7 @@
 
 - 📫 **How to reach me!** <a href="mailto:rudra@outlook.com" > Click Hear </a>
 
-- Don't forget to hit the ⭐, If you like this repository.
+- **Don't forget to hit the ⭐, If you like this repository.**
 
 <br />
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
