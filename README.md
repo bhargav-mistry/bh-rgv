@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Findiaprogramming.blogspot.com%2F2015%2F11%2Fprogramming-quotes.html&psig=AOvVaw2K0-F2Yxpcl5hhoeo67lOI&ust=1638424971298000&source=images&cd=vfe&ved=2ahUKEwiVzsHk9sH0AhXdRmwGHQo5AHMQjRx6BAgAEAk)](https://Rudra.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://Rudra.github.io)
 <h1 align="center">Hi 👋, I'm Rudra </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
