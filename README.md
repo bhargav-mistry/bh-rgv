@@ -38,13 +38,13 @@
 <h2 align="left"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
 
 - **Languages:**
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="35" height="35"/> </a>
-&nbsp;
+- <p align="left">
+- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="35" height="35"/> </a>
+- &nbsp;
+- <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/> </a>
+- &nbsp;
+- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="35" height="35"/> </a>
+- &nbsp;
 </p>
 
 - **Web Development:**
