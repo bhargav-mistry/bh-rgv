@@ -40,8 +40,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="python" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="python" width="40" height="40" /> </a> 
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 
