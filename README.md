@@ -71,17 +71,8 @@
 &nbsp; 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="35" height="35"/> </a>
 &nbsp;
-<!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
-&nbsp;
-<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="35" height="35"/> </a> 
-&nbsp;
-<a href="https://www.github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="35" height="35"/> </a> 
-&nbsp; -->
 </p>
 
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Rudra" /></p>
-
-<!-- **&nbsp;**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en&layout=extended" alt="Rudra" /></p> -->
