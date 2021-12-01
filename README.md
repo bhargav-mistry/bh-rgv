@@ -13,7 +13,7 @@
 
 - Don't forget to hit the ⭐, If you like this repo.
 
-&nbsp;ss
+&nbsp;
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
 <p align="left">
 
