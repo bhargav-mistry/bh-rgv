@@ -56,12 +56,7 @@
 
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact&langs_count=6&theme=blue-green" alt="Rudra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark-blue" alt="Rudra" /></p>
 
 **&nbsp;**
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
-
-
-
-
-<!-- [![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi) -->
