@@ -11,7 +11,7 @@
 **&nbsp;**
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
-- <a href="mailto:info@yoursite.com"> How to reach me <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="40" width="40" /> rudra@outlook.com </a> 
+- How to reach me <a href="mailto:info@yoursite.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="40" width="40" /> rudra@outlook.com </a> 
 
 - Don't forget to hit the ⭐, If you like this repo.
 
