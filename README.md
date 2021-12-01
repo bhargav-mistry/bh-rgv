@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> [Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=UI/UX+Designer;Programmer;Web+Designer;Web+Devloper)</h1>
+<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+
+<gif src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=UI/UX+Designer;Programmer;Web+Designer;Web+Devloper" /></gif>
+</h1>
 
 
 
