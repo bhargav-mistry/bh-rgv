@@ -53,7 +53,3 @@
 
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
-
-**&nbsp;**
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
