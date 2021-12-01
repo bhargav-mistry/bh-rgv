@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- <br /> 
 
+**&nbsp;**
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
 - 📫 How to reach me **rudra@outlook.com**
@@ -36,7 +36,7 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-rt&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
- <br /> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p>
 
 
