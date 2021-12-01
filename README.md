@@ -26,6 +26,7 @@
 <a href="https://github.com/rudra-nsh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="30" width="30" /></a>
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="30" width="30" /></a>
+&nbsp;
 </p>
 
 <h2 align="left"> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
