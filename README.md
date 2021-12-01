@@ -23,6 +23,8 @@
 &nbsp;
 <a href="https://instagram.com/rudra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Rudra" height="40" width="40" /></a>
 &nbsp;
+<a href="https://github.com/rudra-nsh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="40" width="40" /></a>
+&nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="40" width="40" /></a>
 </p>
 
@@ -51,3 +53,7 @@
 
 <h2 align="left"> Most used languages: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
+
+**&nbsp;**
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en" alt="Rudra" /></p> -->
