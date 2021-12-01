@@ -11,9 +11,9 @@
 <br />
 &nbsp;
 
-- 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
+- 👨‍💻 **You can also check out my portfolio!** <a href="https://rudra.github.io/" > Click Hear </a>
 
-- 📫 How to reach me! <a href="mailto:rudra@outlook.com" > Click Hear </a>
+- 📫 **How to reach me!** <a href="mailto:rudra@outlook.com" > Click Hear </a>
 
 - Don't forget to hit the ⭐, If you like this repository.
 
