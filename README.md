@@ -60,6 +60,5 @@
 
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 28px> </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Rudra" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en&layout=extended" alt="Rudra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Rudra" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rudra&show_icons=true&locale=en&layout=extended" alt="Rudra" /></p>
