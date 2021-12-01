@@ -11,7 +11,7 @@
 **&nbsp;**
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
--- ✉ How to reach me **rudra@outlook.com**
+- 📫 How to reach me **rudra@outlook.com**
 
 - Don't forget to hit the ⭐, If you like this repo.
 
