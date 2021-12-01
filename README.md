@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -34,8 +36,14 @@
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
-<!-- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> -->
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="python" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="python" width="40" height="40" /> </a> 
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
+</p>
 
 **&nbsp;**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=compact" alt="Rudra" /></p>
