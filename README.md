@@ -1,8 +1,10 @@
-[![MasterHead](https://pixabay.com/vectors/interface-internet-program-browser-3614766/)](https://rudra.github.io)
+<!-- [![MasterHead](https://pixabay.com/vectors/interface-internet-program-browser-3614766/)](https://rudra.github.io) -->
 <h1 align="center">Hi 👋, I'm Rudra </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-rt&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 
 - 👨‍💻 You can also check out my portfolio at [https://rudra.github.io/](https://rudra.github.io/)
 
