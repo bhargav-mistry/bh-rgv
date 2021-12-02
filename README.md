@@ -53,7 +53,11 @@
 &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="35" height="35"/> </a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="js" width="35" height="35"/> </a>   
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/javascript.svg" alt="js" width="35" height="35"/> </a>   
+  
+<!--   https://img.icons8.com/color/48/000000/javascript.png
+   -->
+  
 &nbsp;
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracal" width="55" height="35"/> </a>  
 &nbsp;
