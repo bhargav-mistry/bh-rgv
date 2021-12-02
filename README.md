@@ -39,9 +39,9 @@
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="C" width="35" height="35"/> </a>
 &nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="35" height="35"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/> </a>
 &nbsp;
 </p>
 
