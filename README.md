@@ -59,7 +59,7 @@
 &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="35" height="35"/> </a>
 &nbsp;
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="35" height="35"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bootstrap.svg" alt="Bootstrap" width="35" height="35"/> </a>
 &nbsp;
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracal" width="55" height="35"/> </a>  
 &nbsp;
