@@ -15,7 +15,7 @@
 
 - 📫 **How to reach me!** <a href="mailto:rudra@outlook.com" > Click Hear </a>
 
-- **Don't forget to hit the ⭐, If you like this repository.**
+- **Don't forget to follow ⭐, If you like my Project.**
 
 <br />
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
@@ -79,6 +79,11 @@
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="35" height="35"/> </a>
 </p>
 
+<!-- commands
+```git push
+git add
+git commit
+``` -->
 <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 22px> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra-nsh&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Rudra" /></p>
