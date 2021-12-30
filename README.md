@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hello, I'm Rudra  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
+<h1 align="center">Hello, I'm Bhrgav  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-nsh&label=Profile%20views&color=129e00&style=plastic" alt="Rudra" /> </p>
 
