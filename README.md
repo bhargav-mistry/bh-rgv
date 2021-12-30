@@ -27,7 +27,7 @@
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
-<a href="https://github.com/rudra-nsh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="30" width="30"/> </a>
+<a href="https://github.com/bhrgv-m" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Rudra" height="30" width="30"/> </a>
 &nbsp;
