@@ -84,6 +84,6 @@
 git add
 git commit
 ``` -->
-<br />
+<!-- <br />
 <h2 align="left"> Github <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width = 22px> </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bh-rgv&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Bhrgv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bh-rgv&show_icons=true&locale=en&layout=extended&langs_count=8" alt="Bhrgv" /></p> -->
