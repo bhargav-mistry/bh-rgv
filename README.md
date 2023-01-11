@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Hello There, I'm Bhrgv  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bh-rgv&label=Profile%20views&color=129e00&style=plastic" alt="Bhrgv" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bh-rgv&label=Profile%20views&color=129e00&style=plastic" alt="Bhrgv" /> </p>
+-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bh-rgv&label=Profile%20views&color=0e75b6&style=plastic" alt="Bhrgv" /> </p>
 
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
