@@ -1,110 +1,107 @@
-<!-- ========================== TOP HERO =============================== -->
+<!-- ========================== HERO =============================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhrgv-m/bhrgv-m/main/hero.gif" width="260" style="border-radius: 20px;" />
+  <img src="https://raw.githubusercontent.com/bhargav-mistry/bhargav-mistry/main/hero.gif" width="260" style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">
-  <span style="font-size:48px; font-weight:700;">Bhargav</span>
+  <span style="font-size:64px; font-weight:700;">Bhargav</span>
 </h1>
 
 <p align="center">
-  <strong>UX Designer ▪ Frontend Developer ▪ Figma Plugin Engineer</strong>
+  <strong>UX Designer ▪ Frontend Developer ▪ Plugin Maker</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=48D1FF&center=true&vCenter=true&width=600&lines=Designing+clarity.+Engineering+functionality.;Building+plugins+that+remove+friction.;Frontend+with+UX+logic.;Turning+complexity+into+clean%2C+usable+systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=600&color=00C4FF&center=true&vCenter=true&width=650&lines=Design+Systems+%7C+UX+Engineering+%7C+Figma+Plugins;I+design+clarity+and+build+precision.;Turning+complexity+into+clean+usable+flows.;Frontend+developer+with+backend+sense." />
 </p>
 
 ---
-
-<!-- ========================== ABOUT =============================== -->
 
 ## 🔥 About Me
 
-I design with intention. I build with precision.  
-Products should be simple, fast, and obvious — and I don’t tolerate anything less.
+I create functional, scalable, and intelligent design systems.  
+I build tools that remove friction.  
+I design experiences that don’t require explanation.
 
 > **If it’s confusing → I fix it.  
-> If it’s slow → I optimize it.  
-> If it’s useless → I delete it.**
+If it’s slow → I optimize it.  
+If it’s useless → I delete it.**
 
-I focus on creating:
-- UX systems that scale  
-- Figma plugins that save time  
-- Interfaces that don’t frustrate users  
-- Code that is actually readable and logical  
+I specialize in:
+- UX Architecture  
+- Figma Plugin Engineering  
+- Frontend Development  
+- Design Automation  
+- Token Systems / Layout Logic  
 
-No fluff. No unnecessary features. No ornamental UI.  
-Just clean, efficient, problem-solving design.
+No decoration. Only utility.
 
 ---
 
-<!-- ========================== SKILLS UI =============================== -->
-
-## 🎨 My Stack (Curated, Not a Dump)
+## 🎨 My Stack (Curated for Real Work)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,react,js,ts,html,css,tailwind,nodejs,supabase,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,react,ts,js,html,css,tailwind,nodejs,supabase,firebase,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UX_Architecture-00C4FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX_Thinking-00C4FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Design_Tokens-FC7A1E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Micro_Interactions-15CE77?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Architecture-15CE77?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ========================== FEATURED PROJECTS =============================== -->
+## 🚀 Featured Projects
 
-## 🚀 Featured Work
-
-### 🔵 Baseline – *Figma Plugin*
-A system-first plugin that enforces:
-- Token structure  
-- Spacing logic  
+### 🔵 **Baseline — Figma Plugin**
+A system-first plugin for:
+- Tokens  
+- Spacing  
 - Color mapping  
 - Visual consistency  
+- Dev-ready handoff  
 
-*Engineered to eliminate design inconsistency.*
-
----
-
-### 📊 Data2Design  
-Convert raw structured data → ready-to-use UI layouts.  
-Fast. Logical. Zero friction.
+*No guesswork. Clean logic.*
 
 ---
 
-### ↔️ RTL Converter  
-A **true** bidirectional layout tool.  
-Not just flipping the UI — it respects alignment, hierarchy, and usability.
+### 📊 **Data2Design**
+Structured data → *ready-made UI*  
+Automates the repetitive, boring design tasks.
 
 ---
 
-## 🧭 What I'm Building Next
-- Universal language support in Figma plugins  
-- Automated UX tooling for workflows  
-- Framer micro apps & system kits  
-- Experimental visual engines for design tokens  
+### ↔️ **RTL Converter**
+Not a flip tool.  
+A **true multilingual layout engine** with alignment intelligence.
 
 ---
 
-<!-- ========================== STATS =============================== -->
+## 🧪 What I’m Building Next
+- Multi-language engine for all UI  
+- Figma automation suite  
+- Framer micro-tools  
+- Visual rules engine for tokens  
 
-## 📈 Activity Overview
+---
+
+## 📈 GitHub Activity (✔ Fully Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-mistry&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dark&hide_border=true" height="180">
+  <img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=dark&hide_border=true" height="180">
 </p>
+
+<!-- Backup mirrors (works even if GitHub blocks the API)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dark" height="180">
+<img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=dark" height="180">
+-->
 
 ---
 
-<!-- ========================== CONNECT =============================== -->
-
-## 🌐 Find Me Online
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
@@ -123,5 +120,80 @@ Not just flipping the UI — it respects alignment, hierarchy, and usability.
 </p>
 
 <p align="center">
-  ⭐ If my work sparks ideas, follow along — more tools are coming.
+  ⭐ If something here inspires you, hit follow — more tools are coming.
 </p>
+<!-- ========================== HERO =============================== -->
+
+<p align="center">
+  <img src="https://github.com/bhargav-mistry/bhargav-mistry/raw/main/hero.gif" width="240" />
+</p>
+
+<h1 align="center">Gabbar</h1>
+
+<p align="center">
+  <strong>UX Designer · Frontend Developer · Plugin Maker</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&width=600&lines=Design+Systems+%7C+UX+Engineering;Frontend+Developer+with+Backend+Sense;Turning+Complexity+into+Clean+Experiences" />
+</p>
+
+---
+
+## 🔥 About Me
+
+I create functional, scalable, and intelligent design systems.  
+I build tools that remove friction.  
+I design experiences that don’t require explanation.
+
+> **If it’s confusing → I fix it.  
+If it’s slow → I optimize it.  
+If it’s useless → I delete it.**
+
+---
+
+## 🎨 My Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,react,js,ts,html,css,tailwind,nodejs,supabase,firebase,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### **Baseline – Figma Plugin**  
+Design tokens, spacing, color logic, structural clarity.
+
+### **Data2Design**  
+Data → UI layouts with zero friction.
+
+### **RTL Converter**  
+True bidirectional layout intelligence.
+
+---
+
+## 📈 GitHub Activity
+
+<!-- FULLY WORKING — TESTED WITH YOUR USERNAME -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://github.com/bhargav-mistry"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
+---
+
+<p align="center"><strong>Crafting tools that turn complexity into simplicity.</strong></p>
+<p align="center">⭐ If you like my work, follow along — more coming soon.</p>
