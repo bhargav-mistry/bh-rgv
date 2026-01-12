@@ -79,25 +79,13 @@ A **true multilingual layout engine** with alignment intelligence.
 
 ---
 
-## 🧪 What I’m Building Next
-- Multi-language engine for all UI  
-- Figma automation suite  
-- Framer micro-tools  
-- Visual rules engine for tokens  
+## 📈 GitHub Activity
 
----
+<div align="center" style="padding:20px; border-radius:16px; background:rgba(255,255,255,0.04); backdrop-filter:blur(8px); border:1px solid rgba(255,255,255,0.1);"> 
+  <img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=tokyonight&hide_border=true" height="440" />
+  
+</div>
 
-## 📈 GitHub Activity (✔ Fully Working)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dark&hide_border=true" height="180">
-  <img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=dark&hide_border=true" height="180">
-</p>
-
-<!-- Backup mirrors (works even if GitHub blocks the API)
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dark" height="180">
-<img src="https://streak-stats.demolab.com?user=bhargav-mistry&theme=dark" height="180">
--->
 
 ---
 
