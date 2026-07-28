@@ -83,8 +83,8 @@ const dracula = {
 ## The Crypt of Stats
 
 <div align="left" width="100%">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&card_width=450" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-mistry&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&langs_count=8&card_width=450" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bhargav-mistry&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&ring_color=ff79c6&card_width=450" />
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhargav-mistry&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&langs_count=8&card_width=450" />
 </div>
 
 <div align="left" width="100%">
@@ -137,20 +137,20 @@ const dracula = {
 <div align="left">
 
 <div align="left" width="100%">
-  <a href="https://github.com/bhargav-mistry/Fig_MCP">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=FigSafe&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
+  <a href="https://github.com/bhargav-mistry/Figma_D2C">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=bhargav-mistry&repo=Figma_D2C&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
   </a>
   <a href="https://github.com/bhargav-mistry/Obstacle-Detection">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=Obstacle-Detection&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=bhargav-mistry&repo=Obstacle-Detection&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
   </a>
 </div>
 
 <div align="left" width="100%">
   <a href="https://github.com/bhargav-mistry/Arduino">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=Arduino&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&description_lines_count=2" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=bhargav-mistry&repo=Arduino&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&description_lines_count=2" />
   </a>
   <a href="https://github.com/bhargav-mistry/Arduino">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=Arduino&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&description_lines_count=2" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=bhargav-mistry&repo=Arduino&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&description_lines_count=2" />
   </a>
 </div>
 
